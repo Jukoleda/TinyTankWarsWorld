@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Jukoleda/TinyTankWarsWorld.git"
   },
-  "author": "",
+  "author": "David Martinez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jukoleda/TinyTankWarsWorld/issues"
   },
-  "homepage": "https://github.com/Jukoleda/TinyTankWarsWorld#readme"
+  "homepage": "https://github.com/Jukoleda/TinyTankWarsWorld#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
